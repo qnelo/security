@@ -46,6 +46,8 @@ Agile Secure SDLC
    - Restricciones de codificación basadas en un modelo de riesgos
 -  Codificación segura
    - Saturaciones de búfer (para aplicaciones que usen C y C++)
+     - [Desbordamiento de búfer](https://www.ecured.cu/Desbordamiento_de_b%C3%BAfer)
+     - De culto -> [Smashing The Stack For Fun And Profit](http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
    - Errores aritméticos de enteros (para aplicaciones que usen C y C++)
    - XSS (para código administrado y aplicaciones web)
    - Inyección de código SQL (para código administrado y aplicaciones web)
