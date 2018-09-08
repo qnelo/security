@@ -6,7 +6,7 @@ Volver al [índice](../../README.md)
 
 Las siglas SDLC (Software Development Life Cycle) significan Ciclo de Vida de Desarrollo de Software. Existen varios proyectos o marcos de trabajo que dan una guía para asegurar el proceso de desarrollo de software, entre ellas están:
 
-- MS SDL
+- Microsoft SDL
 - OWASP
 - BSIMM
 - NIST 800-64
