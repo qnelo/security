@@ -34,23 +34,25 @@ Cada una tiene pilares de base y actividades que sugieren para lograr, a continu
 - Visibilidad del estado de los proyectos
 
 ## Referencias
-Microsoft [Implementación simplificada del proceso SDL en español](https://github.com/qnelo/security/blob/master/temas/sdlc/Spanish_Simplified%20Implementation%20of%20the%20SDL.docx)
+Microsoft - [Implementación simplificada del proceso SDL en español](https://github.com/qnelo/security/blob/master/temas/sdlc/Spanish_Simplified%20Implementation%20of%20the%20SDL.docx)
 
-Microsoft [Sitio de de referencia de SDL](https://www.microsoft.com/en-us/sdl)
+Microsoft - [Sitio de de referencia de SDL](https://www.microsoft.com/en-us/sdl)
 
-Microsoft - LIbro [The Security Development Lifecycle](https://blogs.msdn.microsoft.com/microsoft_press/2016/04/19/free-ebook-the-security-development-lifecycle/)
+Microsoft - Libro - [The Security Development Lifecycle](https://blogs.msdn.microsoft.com/microsoft_press/2016/04/19/free-ebook-the-security-development-lifecycle/)
 
-Microsoft [Proceso Ágil SDL](https://www.microsoft.com/en-us/SDL/Discover/sdlagile.aspx)
+Microsoft - [Proceso Ágil SDL](https://www.microsoft.com/en-us/SDL/Discover/sdlagile.aspx)
 
-OWASP [Anexo para Contrato de Software Seguro](https://www.owasp.org/index.php/Anexo_para_Contrato_de_Software_Seguro_de_OWASP)
+OWASP - [Anexo para Contrato de Software Seguro](https://www.owasp.org/index.php/Anexo_para_Contrato_de_Software_Seguro_de_OWASP)
 
-OWASP [Una Guía para Construir
-Aplicaciones y Servicios
-Web Seguros](https://www.owasp.org/images/b/b2/OWASP_Development_Guide_2.0.1_Spanish.pdf)
+OWASP - [Una Guía para Construir Aplicaciones y Servicios Web Seguros](https://www.owasp.org/images/b/b2/OWASP_Development_Guide_2.0.1_Spanish.pdf)
 
-OWASP [Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Project)
+OWASP - [Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Project)
 
-NIST [Special Publication 800-64 Revision 2](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-64r2.pdf)
+NIST - [Special Publication 800-64 Revision 2](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-64r2.pdf)
+
+SAFECode - [SAFECode official page](https://safecode.org/)
+
+BSIMM - [Framework](https://www.bsimm.com/framework.html)
 
 ## Agile Secure SDLC
 
