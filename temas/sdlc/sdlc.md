@@ -89,10 +89,13 @@ SAFECode [Practical Security Stories and Security Task for Agile Development Env
    - Saturaciones de búfer (para aplicaciones que usen C y C++)
      - [Desbordamiento de búfer](https://www.ecured.cu/Desbordamiento_de_b%C3%BAfer)
      - De culto -> [Smashing The Stack For Fun And Profit](http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
+     - [Explotación - Buffers OverFlows y exploits (Parte I)](https://elbauldelprogramador.com/explotacion-buffers-overflows-y-exploits-parte-i/)
    - Errores aritméticos de enteros (para aplicaciones que usen C y C++)
    - XSS (para código administrado y aplicaciones web)
    - Inyección de código SQL (para código administrado y aplicaciones web)
    - Criptografía débil
+     - [Criptografía 101: Fundamentos matemáticos (I) - Aritmética modular](https://elbauldelprogramador.com/criptografia-101-fundamentos-matematicos-i/)
+     - [Criptografía 101 - Fundamentos Matemáticos (II) - Cálculo de Potencias](https://elbauldelprogramador.com/criptografia-101-fundamentos-matematicos-ii/)
 -  Pruebas de seguridad
    - Diferencias entre pruebas de seguridad y pruebas funcionales
    - Evaluación de riesgos
