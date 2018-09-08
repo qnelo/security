@@ -2,28 +2,69 @@ Volver al [indice](../../README.md)
 
 #
 
-# Security Development Lifecycle
+# Desarrollo Seguro
 
+Las siglas SDLC (Software Development Life Cycle) significan Ciclo de Vida de Desarrollo de Software. Existen varios proyectos o marcos de trabajo que dan una guia para asegurar el proceso de desarrollo de software, entre ellas estan:
 
+- MS SDL
+- OWASP
+- BSIMM
+- NIST 800-64
+- openSAMM
+- SAFECode
+
+Cada una tiene pilares de base y actividades que sugieren para lograr, a continuación una lista de las actividades y pilares mas utilizadas en los marcos de trabajo para hacer desarrollo seguro.
+
+## Actividades de seguridad sugeridas.
+
+- **Formación de seguridad** de los grupos implicados en el desarrollo.
+- Mejora continua de los procesos.
+- Responsabilidad.
+- Identificación y definición de **riesgos de negocio** del cliente.
+- Obtención y validación de los **requisitos de seguridad**.
+- Análisis y **modelado de amenazas** que proteja la superficie de ataques.
+- **Revision del diseño**.
+- **Revisión de código**.
+- **Testing de seguridad**.
+- **Validación de salidas** garantizando la seguridad del código liberado.
+- **Evaluación y metricas** confirmando el seguimiento de la seguridad.
+- Implantación de un **plan de respuestas a incidentes**
+- Observatorio de Seguridad
+- Repositorio de Seguridad y gestión del conocimiento
+- Visibilidad del estado de los proyectos
 
 ## Referencias
 [Implementación simplificada del proceso SDL de Microsoft en español](https://github.com/qnelo/security/blob/master/temas/sdlc/Spanish_Simplified%20Implementation%20of%20the%20SDL.docx)
 
 [Sitio de SDL Microsoft](https://www.microsoft.com/en-us/sdl)
 
-[Libro - The Security Development Lifecycle](https://blogs.msdn.microsoft.com/microsoft_press/2016/04/19/free-ebook-the-security-development-lifecycle/)
+Libro Microsoft [The Security Development Lifecycle](https://blogs.msdn.microsoft.com/microsoft_press/2016/04/19/free-ebook-the-security-development-lifecycle/)
 
 [Proceso Ágil SDL de Microsoft](https://www.microsoft.com/en-us/SDL/Discover/sdlagile.aspx)
 
 [Anexo para Contrato de Software Seguro de OWASP](https://www.owasp.org/index.php/Anexo_para_Contrato_de_Software_Seguro_de_OWASP)
 
-[Una Guía para Construir
+OWASP [Una Guía para Construir
 Aplicaciones y Servicios
 Web Seguros](https://www.owasp.org/images/b/b2/OWASP_Development_Guide_2.0.1_Spanish.pdf)
 
-Agile Secure SDLC
+[OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Project)
 
-## Temas
+[NIST Special Publication 800-64 Revision 2](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-64r2.pdf)
+
+## Agile Secure SDLC
+
+[Manifesto for Agile Software Development](http://agilemanifesto.org/)
+
+Synopsys [Agile Secure Manifesto](https://github.com/qnelo/security/blob/master/temas/sdlc/agile-security-manifesto.pdf)
+
+Synopsys [Delivering Security in an Agile World](https://github.com/qnelo/security/blob/master/temas/sdlc/delivering-security-in-an-agile-world.pdf)
+
+[Adopting Secure SDLC In Agile](https://www.hack2secure.com/blogs/adopting-secure-sdlc-in-agile)
+
+SAFECode [Practical Security Stories and Security Task for Agile Development Environments](https://github.com/qnelo/security/blob/master/temas/sdlc/SAFECode_Agile_Dev_Security0712.pdf)
+
+## Formación
 
 -  Diseño seguro
    - Reducción de la superficie de ataques
